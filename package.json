@@ -17,6 +17,7 @@
     "@radix-ui/react-toast": "^1.1.5",
     "@tanstack/react-query-devtools": "^5.20.5",
     "@types/node": "^20.11.16",
+    "appwrite": "^13.0.1",
     "class-variance-authority": "^0.7.0",
     "lucide-react": "^0.323.0",
     "react": "^18.2.0",
